@@ -1,0 +1,176 @@
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmDangnhap.resources
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CopyComplete
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+D:\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmDangnhap.resources
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CopyComplete
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmDangnhap.resources
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.Up2Date
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmQuanLyNhanSu.resources
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmDangnhap.resources
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmQuanLyNhanSu.resources
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CopyComplete
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+C:\Users\THANH PHONG\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmDangnhap.resources
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmQuanLyNhanSu.resources
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.Up2Date
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1)\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmDangnhap.resources
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmLog.resources
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmQuanLyNhanSu.resources
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.Up2Date
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+C:\Users\Minh Duc\Documents\Zalo Received Files\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.exe
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.deps.json
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.runtimeconfig.json
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\QLNS.pdb
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.AssemblyReference.cache
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmDangnhap.resources
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmLog.resources
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmQuanLyNhanSu.resources
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.GenerateResource.cache
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfoInputs.cache
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.AssemblyInfo.cs
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.CoreCompileInputs.cache
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\refint\QLNS.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.pdb
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.genruntimeconfig.cache
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\ref\QLNS.dll
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.csproj.Up2Date
+D:\Do_An-QLNS (1) (1)\QLNS\QLNS\obj\Debug\net6.0-windows\QLNS.frmServerName.resources
